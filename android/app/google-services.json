@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567656719203",
+    "project_id": "gaduan-ba14c",
+    "storage_bucket": "gaduan-ba14c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567656719203:android:374f39f7369307092ea956",
+        "android_client_info": {
+          "package_name": "id.desa.timbangpurbalingga.gaduan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567656719203-0lfn7tq859l09tdn7tmag2gnat6i27up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwdHTwai6M8c1tJeBgfamwm77_sXiRH4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567656719203-0lfn7tq859l09tdn7tmag2gnat6i27up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

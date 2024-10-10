@@ -1,0 +1,45 @@
+name: gaduan
+description: menghubungkan para peternak.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.5 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  http: ^0.13.5
+  shared_preferences: ^2.0.15
+  font_awesome_flutter: ^10.2.1
+  image_picker: ^0.8.6
+  cached_network_image: ^3.2.3
+  get: ^4.6.5
+  like_button: ^2.0.5
+  google_fonts: ^3.0.1
+  flutter_datetime_picker: ^1.5.1
+  pull_to_refresh: ^2.0.0
+  animated_svg: ^1.1.2
+  flutter_svg: ^1.1.6
+  flutter_launcher_icons: ^0.11.0
+  image_cropper: ^3.0.1
+  firebase_auth: ^4.2.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/male_profile_placeholder.jpg
+    - assets/images/female_profile_placeholder.jpg
+    - assets/images/goat.svg
